@@ -1,0 +1,13 @@
+.cor_botao{
+    background: #1282c3;
+}
+.img-thumbnail{
+   width: 10%;
+}
+.rodape{
+        padding-top: 30px;
+        padding-bottom: 5px;
+        color: #fff;
+        background-color: #f5f5f5;
+        position: relative;
+}
